@@ -1,10 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72121&size=25&duration=7000&center=true&vCenter=true&multiline=true&height=100&lines=%F0%9F%91%8F+WLC+BAIZID-171+PROFILE+%F0%9F%91%8F)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Niki404-Cyber&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Niki404-Cyber" /> </p>
+</i></b></h3>
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72121&size=25&duration=7000&center=true&vCenter=true&multiline=true&height=100&lines=🌹+I+am+BAIZID+MOSTAFA+🌹)](https://git.io/typing-svg)
 
 ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594 (1)](https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif)
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=😍+Assalamu+Alaikum+🖤;+👿+It's+Not+Only+Just+Name+,;It's+A+Brand+BAIZID+,,👿;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=😍+Assalamu+Alaikum+🖤;+👿+It's+Not+Just+A+Name+,;It's+A+Brand,,👿;Thank+You+Everyone+🥰)](https://git.io/typing-svg)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifvau&label=Profile%20views&color=0e75b6&style=flat" alt="BAIZID-171" /> </p>
@@ -34,4 +43,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifvau&show_icons=true&locale=en" alt="alifvau" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alifvau&" alt="alifvau" /></p>
-
