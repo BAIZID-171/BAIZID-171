@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=😍+Assalamu+Alaikum+🖤;+👿+It's+Not+Just+A+Name+,;It's+A+Brand,,👿;Thank+You+Everyone+🥰)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alifvau&label=Profile%20views&color=0e75b6&style=flat" alt="BAIZID-171" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BAIZID-171&label=Profile%20views&color=0e75b6&style=flat" alt="BAIZID-171" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BAIZID-171" alt="BAIZID-171" /></a> </p>
 
