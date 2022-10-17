@@ -1,5 +1,3 @@
-<a href="#"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-PAKISTAN-green?
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72121&size=25&duration=7000&center=true&vCenter=true&multiline=true&height=100&lines=%F0%9F%91%8F+WLC+BAIZID-171+PROFILE+%F0%9F%91%8F)](https://git.io/typing-svg)
 
 ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594 (1)](https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif)
@@ -14,6 +12,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BAIZID-171" alt="BAIZID-171" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img width="800px" src="https://user-images.githubusercontent.com/116461/76165260-c6c00500-6112-11ea-9cda-0a6cb9b72e8f.gif" />
+
+•Ⓑ• <b>VISTOR COUNT •Ⓑ•
+
+  <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
 
 - Contact Me **bmcsquad171@gmail.com**
 
@@ -30,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifvau&show_icons=true&locale=en" alt="alifvau" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alifvau&" alt="alifvau" /></p>
+
