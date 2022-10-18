@@ -2,6 +2,8 @@
 
 <a href="https://h4ck3r0.github.io/"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 
+<a href="https://BAIZID-171.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-2.4.9-green.svg?style=flat-square"></a>
+
 <h3 align="center">
 
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
