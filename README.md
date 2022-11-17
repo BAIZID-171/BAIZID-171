@@ -10,17 +10,14 @@
 
 ![boysdpz_c4663e3_1656850427534_sc_cmprsd_75](https://user-images.githubusercontent.com/114737357/196397178-9b25dc90-22fb-4a00-8093-2905c06b034d.jpg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+BAIZID+MOSTAFA+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+BAIZID-171+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰;Love+From+Bangladesh🇧🇩)](https://git.io/typing-svg)
+
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72121&size=25&duration=7000&center=true&vCenter=true&multiline=true&height=100&lines=🌹+I+am+BAIZID+MOSTAFA+🌹)](https://git.io/typing-svg)
 
 ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594 (1)](https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif)
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=😍+Assalamu+Alaikum+🖤;+👿+It's+Not+Just+A+Name+,;It's+A+Brand,,👿;Thank+You+Everyone+🥰)](https://git.io/typing-svg)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BAIZID-171&label=Profile%20views&color=0e75b6&style=flat" alt="BAIZID-171" /> </p>
 
@@ -30,7 +27,7 @@
 
 <img width="800px" src="https://user-images.githubusercontent.com/116461/76165260-c6c00500-6112-11ea-9cda-0a6cb9b72e8f.gif" />
 
-•Ⓑ• <b>VISTOR COUNT •Ⓑ•
+•Ⓑ• <b>VISITOR COUNT •Ⓑ•
 
   <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
 
