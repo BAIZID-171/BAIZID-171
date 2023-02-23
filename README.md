@@ -15,7 +15,7 @@
 
 ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594 (1)](https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif)
 
-<b></b> </br> <br>[![Facebook](https://img.shields.io/badge/Facebook-ASIF-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MrError171)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-ASIF-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+88015.......)<br>[![Telegram](https://img.shields.io/badge/Telegram-ASIF-blue?style=flat-square&logo=telegram)](https://te.me/Baizidmostofa)
+<b></b> </br> <br>[![Facebook](https://img.shields.io/badge/Facebook-ASIF-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MrError171)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-ASIF-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+88015.......)<br>[![Telegram](https://img.shields.io/badge/Telegram-ASIF-blue?style=flat-square&logo=telegram)](https://t.me/Baizidmostofa)
 
 - Contact For Gmail **bmcsquad171@gmail.com**
 
