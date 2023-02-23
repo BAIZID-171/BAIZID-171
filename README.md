@@ -15,6 +15,11 @@
 
 ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594 (1)](https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif)
 
+<b></b> </br> <br>[![Facebook](https://img.shields.io/badge/Facebook-ASIF-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MrError171)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-ASIF-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+88015.......)
+
+- Contact For Gmail **bmcsquad171@gmail.com**
+
+
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BAIZID-171&label=Profile%20views&color=0e75b6&style=flat" alt="BAIZID-171" /> </p>
@@ -23,13 +28,6 @@
 •Ⓑ• <b>VISITOR COUNT •Ⓑ•
 
   <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
-
-- Contact Me **bmcsquad171@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/MrError171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Baizid.171" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
