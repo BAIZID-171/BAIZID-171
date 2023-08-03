@@ -1,6 +1,10 @@
 <p align="center">
 <a href="https://BAIZID-171.github.io/"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BAIZID-171&label=Profile%20views&color=0e75b6&style=flat" alt="BAIZID-171" /> </p>
+
+
 <a href="https://BAIZID-171.github.io/"><img title="Version" src="https://img.shields.io/badge/Version-2.4.9-green.svg?style=flat-square"></a>
 
 <h3 align="center">
@@ -15,6 +19,7 @@
 
 ![106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594 (1)](https://user-images.githubusercontent.com/79738922/150628863-e161ecb3-06fe-4656-be20-9122ed533309.gif)
 
+
 <div align="center">
 <h3>━━━━ Connect with me ━━━━</h3>
 <a href="https://fb.com/Baizid.110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="BAIZID-171" height="30" width="40" /></a>
@@ -23,12 +28,13 @@
 <a href="https://instagram.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fashu_x" height="30" width="40" /></a>
 </div>
 
+
+
 - Contact For Gmail **bmcsquad171@gmail.com**
 
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BAIZID-171&label=Profile%20views&color=0e75b6&style=flat" alt="BAIZID-171" /> </p>
 
 
 •Ⓑ• <b>VISITOR COUNT •Ⓑ•
