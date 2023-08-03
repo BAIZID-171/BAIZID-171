@@ -29,9 +29,9 @@
 </div>
 
 
-
+<div align="center">
 <h3>━━━━ Connect with me ━━━━</h3>
-aloneboy959688@gmail.com
+<h3>aloneboy959688@gmail.com<h3>
 
 
 
