@@ -23,9 +23,9 @@
 <div align="center">
 <h3>━━━━ Connect with me ━━━━</h3>
 <a href="https://fb.com/Baizid.110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="BAIZID-171" height="30" width="40" /></a>
-<a href="https://twitter.com/AloneBoy9688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BAIZID-171" height="30" width="40" /></a>
-<a href="https://fb.com/Baizid.110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Baizid.110" height="30" width="40" /></a>
-<a href="https://instagram.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fashu_x" height="30" width="40" /></a>
+<a href="https://twitter.com/Baizid171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BAIZID-171" height="30" width="40" /></a>
+<a href="https://t.me/Mr_Alone171" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" alt="Baizid.110" height="30" width="40" /></a>
+<a href="https://instagram.com/fashu_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fashu_x" height="30" width="40" /></a>
 </div>
 
 
