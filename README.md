@@ -30,7 +30,9 @@
 
 
 
-- Contact For Gmail **bmcsquad171@gmail.com**
+<h3>━━━━ Connect with me ━━━━</h3>
+aloneboy959688@gmail.com
+
 
 
 ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
